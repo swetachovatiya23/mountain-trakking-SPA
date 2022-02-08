@@ -64,7 +64,7 @@ function App() {
           <Route path="/about" component={About} />
           <Route path="/packages" render={() => <Packages packages={packages}/>}  />
           <Route path="/stay" render={() => <Stay stay={staylist}/>}  />
-          <Route path="/culinary" render={() => <Culinary culinar={culinarylist}/>}  />
+          <Route path="/culinary" render={() => <Culinary culinary={culinarylist}/>}  />
           
 
         </div>
