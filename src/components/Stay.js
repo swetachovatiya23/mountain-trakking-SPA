@@ -14,7 +14,7 @@ export default function Stay(props) {
                 <Card.Body>
                     <Card.Title>camp</Card.Title>
                     <Card.Text>
-                    Deatils for campaign during tracking !
+                    Deatils for campaign during tracking !!!
                     </Card.Text>
                 </Card.Body>
                 <ListGroup>
