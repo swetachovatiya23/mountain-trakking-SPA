@@ -12,9 +12,9 @@ export default function Stay(props) {
         <Container>
             <Card>
                 <Card.Body>
-                    <Card.Title>Stay For SPA</Card.Title>
+                    <Card.Title>camp</Card.Title>
                     <Card.Text>
-                    WE BELIEVE IN COMFORT WITH CONSCIENCE !
+                    Deatils for campaign during tracking !
                     </Card.Text>
                 </Card.Body>
                 <ListGroup>

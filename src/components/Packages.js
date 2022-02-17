@@ -14,7 +14,7 @@ export default function Packages(props) {
                 <Card.Body>
                     <Card.Title>Our Packages</Card.Title>
                     <Card.Text>
-                        Check out some of our packages! Every package is ethically sourced and organic!
+                        Getting confuse about hike or track, here is all our packages!
                     </Card.Text>
                 </Card.Body>
                 <ListGroup>

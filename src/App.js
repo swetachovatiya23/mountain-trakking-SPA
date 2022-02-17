@@ -13,15 +13,15 @@ import Container from 'react-bootstrap/Container'
 
 function App() {
   
-  const packages = ['Activate your Crystals', 'Monkey Meditation', 'Soak in the Hotsprings', 'Hypnotherapy', 'Mineral Bath']
-  const staylist = ['Suits for Couples', 'Rooms for Singles', 'Rooms for Couples', 'Rooms for Kids', 'Rooms for Family']
-  const culinarylist = ['Conscious Mixology', 'Art of The Cocktail', 'Spirit of Agave', 'Chefs Table Brunch', 'Creative Canvas']
+  const packages = ['Everest Base Camp Trek', 'Everest – Gokyo Lake Trek', 'Everest Gokyo Ri – Chola Pass Trek', 'Everest Kala Pattar Trek', 'Around Annapurna Trekh']
+  const staylist = ['tent for Couples', 'tent for Singles', 'tent for Couples', 'tent for Kids', 'tent for Family']
+  const culinarylist = ['steam rice and beans', 'fruits and veggies', 'Himalayan dal roti', 'Himachali makhaani', 'Pahadi daal']
 
   return (
     <div className="App">
       <Router>
         <header>
-          <h1 className="title">Welcome to Monty's Mineral SPA</h1>
+          <h1 className="title">Asian Mountain Trekking</h1>
           <Container>
             <Nav defaultActiveKey="/" variant="tabs" fill>
                 <Nav.Item>
@@ -44,7 +44,7 @@ function App() {
                 
                 <Nav.Item >
                     <Nav.Link eventKey={"stay"}> 
-                        <Link to="/stay">Stay for SPA</Link> 
+                        <Link to="/stay">camp</Link> 
                     </Nav.Link>
                 </Nav.Item>
 
